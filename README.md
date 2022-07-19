@@ -1,3 +1,3 @@
-## Activity App
+# Activity App
 
-# Simple activity web application
+## Simple activity web application
