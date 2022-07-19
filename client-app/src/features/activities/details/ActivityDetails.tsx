@@ -17,9 +17,7 @@ export default function ActivityDetails(props: Props) {
         <Card.Meta>
           <span>{props.activity.date}</span>
         </Card.Meta>
-        <Card.Description>
-          Matthew is a musician living in Nashville.
-        </Card.Description>
+        <Card.Description>{props.activity.description}</Card.Description>
       </Card.Content>
       <Card.Content extra>
         <Button.Group widths="2">
